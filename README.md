@@ -9,3 +9,4 @@
 - Date: 27 April 2021
 - Place: Zoom
 - Meetup: https://www.meetup.com/es/rladies-montpellier/events/277151324/
+- [Video](https://umontpellier-fr.zoom.us/rec/share/zoD_Kt5hlRCBCH3jk0Akuh5tufHkj_11vmPf7RFXD4KPDYvqlWYnFjX--prO0wzx.IIIlujXPSxQC9ia3?startTime=1619541445000)
